@@ -8,7 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../Baitapmaytinh/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Baitapmaytinh/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Baitapmaytinh/Maytinhdongian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../doyouloveme/.idea/doyouloveme.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../doyouloveme/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../doyouloveme/.idea/modules.xml" afterDir="false" />
@@ -20,7 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../sukienbanphim/Sukienbanphim.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ung dung GODD-FAST-CHEAP/.idea/ung dung GODD-FAST-CHEAP.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ung dung GODD-FAST-CHEAP/GOO FAST CHEAP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapcodegym" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapcodegym" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitaptientengay3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitaptientengay3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../git/baitapbuoi1" beforeDir="false" afterPath="$PROJECT_DIR$/../git/baitapbuoi1" afterDir="false" />
@@ -72,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bai5.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="343">
               <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bai6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -101,6 +109,7 @@
         <option value="$PROJECT_DIR$/Bai3.html" />
         <option value="$PROJECT_DIR$/Bai4.html" />
         <option value="$PROJECT_DIR$/Bai5.html" />
+        <option value="$PROJECT_DIR$/Bai6.html" />
       </list>
     </option>
   </component>
@@ -159,12 +168,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556406377957</updated>
-      <workItem from="1556406379046" duration="2117000" />
+      <workItem from="1556406379046" duration="2633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2117000" />
+    <option name="totallyTimeSpent" value="2633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="250" y="39" width="1400" height="992" extended-state="0" />
@@ -225,6 +234,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bai6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
         </state>
       </provider>
     </entry>

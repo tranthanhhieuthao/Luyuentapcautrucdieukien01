@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<script>
+    let doanhthu=parseFloat(prompt("Nhap doanh thu ban hang"));
+    let hoahong;
+    if (doanhthu>=100000000){
+        hoahong=doanhthu *0.1;
+        alert("so hoa hong nhan duoc la " + hoahong);
+    }
+    else if (doanhthu>=50000000){
+        hoahong=doanhthu*0.05;
+        alert("so hoa hong nhan duoc la " + hoahong);
+    }
+    else {
+        hoahong=doanhthu*0.03;
+        alert("so hoa hong nhan duoc la " + hoahong);
+    }
+</script>
+</body>
+</html>
