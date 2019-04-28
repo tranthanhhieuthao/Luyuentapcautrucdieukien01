@@ -10,7 +10,13 @@
     let sophutgoinoimang=parseInt(prompt("so phut goi noi mang trong 1 ngay"));
     let sophutgoilienmang=parseInt(prompt("so phut goi lien mang trong 1 ngay"));
     let soSMStuDTDD=parseInt(prompt("so phut goi tu dien thoai di dong"));
-    let cuocdienthoai=sophutgoinoimang*1580+sophutgoilienmang*1780+soSMStuDTDD*200;
+    let cuocdienthoai;
+    if (sophutgoinoimang==10){
+        cuocdienthoai=sophutgoilienmang*1780+soSMStuDTDD*200;
+    }
+     else {
+         cuocdienthoai=sophutgoinoimang*1580+sophutgoilienmang*1780+soSMStuDTDD*200;
+    }
     alert("Cuoc dien thoai trong 1 ngay cua ho gia dinh la " + cuocdienthoai + " dong");
 
 </script>
